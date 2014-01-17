@@ -1,7 +1,7 @@
-ican3dprint-season1
+icanmake-season1
 ===================
 
-Some of the makes from Season 1 of I can 3D print
+Some of the makes from Season 1 of "I can Make"
 
 
 Episode 1
