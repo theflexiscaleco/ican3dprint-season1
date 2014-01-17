@@ -1,12 +1,14 @@
 /*
 
-First of all it's always good to write comments in code as you go
+We know how to comment now, so let's write some code.
 
-This type of comment is one which goes across many lines
+This code is based on some existing tutorials, in particular one on Adafruit's Learning platform
+
+http://learn.adafruit.com/adafruit-arduino-lesson-13-dc-motors/overview
 
 */
 
-// and this is a single line type of comment
+
 
 
 void setup() {
