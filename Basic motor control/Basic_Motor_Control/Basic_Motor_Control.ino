@@ -20,5 +20,7 @@ void setup() {
 
 void loop() {
   // put your main code here, to run repeatedly: 
-
+  
+  // here we're writing a "speed" to pin 3. it's an analogue value of 255 which is the highest speed. 
+  analogWrite(3, 255);
 }
