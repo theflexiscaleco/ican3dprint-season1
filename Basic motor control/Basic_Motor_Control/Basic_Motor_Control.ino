@@ -1,10 +1,10 @@
 /*
 
-We know how to comment now, so let's write some code.
+  We know how to comment now, so let's write some code.
 
-This code is based on some existing tutorials, in particular one on Adafruit's Learning platform
+  This code is based on some existing tutorials, in particular one on Adafruit's Learning platform
 
-http://learn.adafruit.com/adafruit-arduino-lesson-13-dc-motors/overview
+  http://learn.adafruit.com/adafruit-arduino-lesson-13-dc-motors/overview
 
 */
 
