@@ -14,7 +14,7 @@
 
 */
 
-
+// this sets up a constant integer (a whole number) for the motor pin. now we can change that in one place rather than in many places in the sketch
 const int MOTOR_PIN = 3;
 
 
@@ -22,8 +22,8 @@ const int MOTOR_PIN = 3;
 void setup() {
   // put your setup code here, to run once:
   
-  // this sets pin 3 to be an output, connected to something, in this case the motor circuit
-  pinMode(3, OUTPUT);
+  // this sets the MOTOR_PIN to be an output, connected to something, in this case the motor circuit
+  pinMode(MOTOR_PIN, OUTPUT);
 
 
 }
@@ -31,6 +31,6 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly: 
   
-  // here we're writing a "speed" to pin 3. it's an analogue value of 255 which is the highest speed. 
-  analogWrite(3, 255);
+  // here we're writing a "speed" to the MOTOR_PIN. it's an analogue value of 255 which is the highest speed. 
+  analogWrite(MOTOR_PIN, 255);
 }
