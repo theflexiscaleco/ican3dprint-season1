@@ -12,7 +12,7 @@
 void setup() {
   // put your setup code here, to run once:
   
-  // this sets pin 3 to be an output connected to something
+  // this sets pin 3 to be an output, connected to something, in this case the motor circuit
   pinMode(3, OUTPUT);
 
 
