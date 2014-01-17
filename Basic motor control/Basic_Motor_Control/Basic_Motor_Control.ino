@@ -11,6 +11,10 @@
 
 void setup() {
   // put your setup code here, to run once:
+  
+  // this sets pin 3 to be an output connected to something
+  pinMode(3, OUTPUT);
+
 
 }
 
